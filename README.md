@@ -10,17 +10,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=your-github-username"/>
 </div>
----
-
-### 👨‍💻About Me :
-- :telescope: 
-
-- :seedling: 
-
-- :zap: 
-
-- :mailbox:
-
 
 ### :fire: My Stats :
 [![venjiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=venjiang)](https://github.com/anuraghazra/github-readme-stats)
